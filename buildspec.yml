@@ -1,5 +1,6 @@
-5.	version: 0.2
-6.	phases:
-7.	  build:
-8.	    commands:
-9.	      - echo "Hello from AWS CodeBuild!"
+version: 0.2
+
+phases:
+  build:
+    commands:
+      - echo "Hello from AWS CodeBuild!"
